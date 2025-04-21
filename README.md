@@ -1,5 +1,5 @@
 
-Zafder Caddesi No : 56 GÜRSU BURSA Tel : 05363951767
+Zafer Caddesi No : 56 GÜRSU BURSA Tel : 05363951767
 <html lang="tr">
 <head>
   <meta charset="UTF-8" />
