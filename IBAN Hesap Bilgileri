@@ -1,0 +1,11 @@
+Zafer Caddesi No : 56 Gürsu Bursa Cep Tel : +90 536 395 17 67
+
+<title>Banka Bilgileri</title> <style> body { font-family: Arial, sans-serif; background: #f9f9f9; padding: 40px; text-align: center; } .card { background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px; margin: 20px auto; max-width: 500px; text-align: left; } .info { margin-bottom: 15px; } .copy-btn { background: #007bff; color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; margin-left: 10px; } .copy-btn:hover { background: #0056b3; } </style>
+Banka Bilgileri
+Ahmet Sılacı
+Ziraat Bankası
+TR44 0001 0005 0613 5293 5850 01 Kopyala
+Ahmet Sılacı
+Halk Bankası
+TR700001200123100009102148 Kopyala
+<script> function copyToClipboard(elementId) { const text = document.getElementById(elementId).textContent; navigator.clipboard.writeText(text).then(() => { alert("IBAN sonuna kadar kopyalandı!"); }); } </script>
